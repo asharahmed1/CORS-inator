@@ -39,4 +39,4 @@ Replace `INPUT_FILE` with the path to your CSV file. The `-t` option specifies t
 
 # Conclusion 📖
 
-CORS-inator tool is a simple yet effective way to check for CORS misconfigurations in a list of URLs. By using this tool, you can identify potential security risks in your web applications and take steps to mitigate them.
+CORS-inator tool is a simple yet effective way to check for CORS misconfigurations in a list of URLs.
